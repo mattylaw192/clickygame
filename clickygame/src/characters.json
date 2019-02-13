@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "image": "http://www.piedpiper.com/app/themes/pied-piper/dist/images/photo-richard.png",
+        "clicked": false
+    },
+
+    {
+        "id": 2,
+        "image": "http://www.piedpiper.com/app/themes/pied-piper/dist/images/photo-jared.png",
+      "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "http://www.piedpiper.com/app/themes/pied-piper/dist/images/photo-monica.png",
+      "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "http://www.piedpiper.com/app/themes/pied-piper/dist/images/photo-dinesh.png",
+      "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "http://www.piedpiper.com/app/themes/pied-piper/dist/images/photo-gilfoyle.png",
+      "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "http://www.piedpiper.com/app/themes/pied-piper/dist/images/photo-big-head.png",
+      "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "https://camo.githubusercontent.com/b265f12a7878ba663040402329ead36441139043/687474703a2f2f692e696d6775722e636f6d2f7a4c43784930322e706e67",
+      "clicked": false
+    }
+]
